@@ -1,0 +1,6 @@
+{
+  "name": "Git & GitHub Academy",
+  "description": "An interactive, gamified learning platform to master Git and GitHub with a terminal simulator, visual repository state, and AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

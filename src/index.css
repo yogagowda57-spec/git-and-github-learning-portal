@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* GitHub High Density Dark theme mappings */
+  --color-slate-950: #0d1117;
+  --color-slate-900: #161b22;
+  --color-slate-800: #30363d;
+  --color-slate-700: #363b42;
+  --color-slate-600: #484f58;
+  --color-slate-500: #484f58;
+  --color-slate-400: #8b949e;
+  --color-slate-300: #c9d1d9;
+  --color-slate-200: #e6edf3;
+  --color-slate-100: #ffffff;
+
+  /* Accent blue mappings for buttons & primary actions */
+  --color-indigo-950: rgba(31, 111, 235, 0.15);
+  --color-indigo-900: rgba(31, 111, 235, 0.25);
+  --color-indigo-800: #1f6feb;
+  --color-indigo-700: #388bfd;
+  --color-indigo-600: #1f6feb;
+  --color-indigo-500: #58a6ff;
+  --color-indigo-400: #58a6ff;
+  --color-indigo-300: #58a6ff;
+  --color-indigo-200: #c9d1d9;
+  --color-indigo-100: #ffffff;
+
+  /* Red/Orange mappings from high density design specs */
+  --color-rose-600: #f74e27;
+  --color-rose-500: #f78166;
+  --color-rose-400: #f78166;
+
+  /* Green mappings for success */
+  --color-emerald-600: #238636;
+  --color-emerald-500: #2ea043;
+  --color-emerald-400: #56d364;
+}
+
+/* Custom UI refinements for high-density feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0d1117;
+}
+::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #484f58;
+}
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
+
