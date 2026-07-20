@@ -13,7 +13,7 @@
 
 🔗 **Try the application:**
 
-https://git-github-academy-252335853638.asia-southeast1.run.app/
+https://gitgithub-academy-by-audinex.ai.studio
 
 ---
 
