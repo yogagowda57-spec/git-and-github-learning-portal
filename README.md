@@ -14,7 +14,7 @@ learn fast as u can..
 
 🔗 **Try the application:**
 
-https://gitgithub-academy-by-audinex.ai.studio
+[https://gitgithub-academy-by-audinex.ai.studio](https://git-and-github-learning-portal.vercel.app/)
 
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3c5af614-84da-4fe7-8ad5-77b1e1da7714" />
