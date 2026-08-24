@@ -12,7 +12,7 @@ learn fast as u can..
 
 ## 🌐 Live Demo
 
-🔗 **Try the application:**
+🔗 **Try the application:
 
 git-and-github-learning-portal.vercel.app
 
