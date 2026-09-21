@@ -10,11 +10,11 @@ learn fast as u can..
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo:
 
 🔗 **Try the application:
 
-git-and-github-learning-portal.vercel.app
+<link>git-and-github-learning-portal.vercel.app </link>
 
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f8aa349c-3982-4177-875c-2017087e4b2f" />
