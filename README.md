@@ -4,7 +4,6 @@
 
 ![GitHub](https://img.shields.io/badge/Git-GitHub-orange)
 ![React](https://img.shields.io/badge/React-TypeScript-blue)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
 ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4)
 learn fast as u can..
 
