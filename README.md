@@ -1,4 +1,4 @@
-**#** 🚀 Git & GitHub Academy
+ 🚀 Git & GitHub Academy
 
 > Learn Git & GitHub from **absolute beginner to advanced** through interactive lessons, real-world scenarios, visual animations, quizzes, terminal practice, and an AI-powered mentor.
 
